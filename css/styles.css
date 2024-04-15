@@ -1,0 +1,33 @@
+*{
+    margin: 1rem;
+}
+
+.problema-title{
+    font-family: Oswald;
+}
+.problema-desc{
+    font-family: Bitter;
+    font-size: 20px;
+}
+
+.problema-output{
+    font-size: 17px;
+}
+
+.problema-button{
+    margin-top: 1rem; 
+    margin-bottom: 1rem;
+}
+
+.titulo{
+    font-family: Oswald;
+    font-size: 30px;
+}
+
+.problema-input{
+    width: 350px;
+}
+
+td .problema-input{
+    width: 100px;
+}
